@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Refresh the index ratings and supplimental GitHub content:
+#curl $OPENSHIFT_APP_DNS/sync

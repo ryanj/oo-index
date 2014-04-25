@@ -12,9 +12,9 @@ except IOError:
 
 from flask_script import Manager
 from flask_funnel.manager import manager as funnel_manager
-myflaskapp = imp.load_source('myflaskapp', 'wsgi/myflaskapp.py')
+indexapp = imp.load_source('app', 'indexapp.py')
 
-manager = Manager(myflaskapp.app)
+manager = Manager(indexapp.app)
 manager.add_command('funnel', funnel_manager)
 
 if __name__ == '__main__':

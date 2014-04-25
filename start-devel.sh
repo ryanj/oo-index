@@ -8,7 +8,7 @@ export GITHUB_CLIENT_ID=$1
 export GITHUB_CLIENT_SECRET=$2
 export OO_INDEX_GITHUB_USERNAME=${3:-openshift}
 export OO_INDEX_GITHUB_REPONAME=${4:-oo-index}
-export OO_INDEX_QUICKSTART_JSON=${5:-wsgi/static/quickstart.json}
+export OO_INDEX_QUICKSTART_JSON=${5:-static/quickstart.json}
 export DEBUG=${DEBUG:-1}
 
 if [ -z "$GITHUB_CLIENT_ID" -o -z "$GITHUB_CLIENT_SECRET" ]; then
@@ -22,4 +22,4 @@ set -e
 . virtenv/bin/activate
 egrep -o '[a-zA-Z0-9-]+==[0-9.]+' setup.py | xargs pip install
 
-python wsgi/myflaskapp.py
+python app.py

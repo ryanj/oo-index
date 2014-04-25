@@ -7,7 +7,7 @@ import github as PyGitHub
 import dateutil.parser
 import datetime
 
-from flask import Flask, g, request, session, url_for, redirect, flash, render_template
+from flask import Flask, g, request, session, url_for, redirect, flash, render_template, send_from_directory
 from flask_github import GitHub as AuthGitHub
 from flask_funnel import Funnel
 
@@ -19,56 +19,8 @@ class OOIndexError(Exception):
     '''
 
 app = Flask(__name__)
-app.debug = int(os.environ.get('DEBUG', '0')) != 0
-
-app.config['UGLIFY_BIN'] = os.path.join(os.environ.get('OPENSHIFT_DATA_DIR', ''), 'node_modules/uglify-js/bin/uglifyjs')
-app.config['CLEANCSS_BIN'] = os.path.join(os.environ.get('OPENSHIFT_DATA_DIR', ''), 'node_modules/clean-css/bin/cleancss')
-
-app.config['CSS_BUNDLES'] = {
-    'bundle-css': (
-        'css/normalize.css',
-        'css/bootstrap.css',
-        'css/bootstrap-theme.css',
-        'css/select2.css',
-        'css/select2-bootstrap.css',
-        'css/icons.css',
-        'css/oo-index.css',
-    ),
-}
-
-app.config['JS_BUNDLES'] = {
-    'bundle-js': (
-        'js/jquery-2.1.0.js',
-        'js/bootstrap.js',
-    ),
-}
-
+app.config.from_pyfile('indexapp.cfg')
 Funnel(app)
-
-try:
-    app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'change-me')
-    app.config['GITHUB_CLIENT_ID'] = os.environ['GITHUB_CLIENT_ID']
-    app.config['GITHUB_CLIENT_SECRET'] = os.environ['GITHUB_CLIENT_SECRET']
-except KeyError, ex:
-    app.config['GITHUB_CLIENT_ID'] = 'FAKE-CLIENT-ID'
-    app.config['GITHUB_CLIENT_SECRET'] = 'FAKE-CLIENT-SECRET'
-    print >>sys.stderr, "Missing config: %s (Please fix)" % ex
-
-try:
-    app.config['GITHUB_CALLBACK_URL'] = 'https://' + os.environ['OPENSHIFT_APP_DNS'] + '/login/callback'
-except KeyError:
-    app.config['GITHUB_CALLBACK_URL'] = 'http://localhost:5000' + '/login/callback'
-
-# set it to point to your own oo-index public repo
-app.config['OO_INDEX_GITHUB_USERNAME'] = os.environ.get('OO_INDEX_GITHUB_USERNAME', 'openshift')
-app.config['OO_INDEX_GITHUB_REPONAME'] = os.environ.get('OO_INDEX_GITHUB_REPONAME', 'oo-index')
-#XXX: we're using quickstart.json from git repo itself.
-app.config['OO_INDEX_QUICKSTART_JSON'] = os.environ.get('OO_INDEX_QUICKSTART_JSON', 'wsgi/static/quickstart.json').strip('/')
-
-if 'OPENSHIFT_REPO_DIR' in os.environ:
-    app.config['OO_INDEX_QUICKSTART_JSON_FULLPATH'] = os.path.join(os.environ['OPENSHIFT_REPO_DIR'], app.config['OO_INDEX_QUICKSTART_JSON'])
-else:
-    app.config['OO_INDEX_QUICKSTART_JSON_FULLPATH'] = app.config['OO_INDEX_QUICKSTART_JSON']
 
 ## Jinja2 filters ########
 
@@ -291,6 +243,10 @@ def logout():
 def index():
     qs = Quickstarts()
     return render_template('index.html', most_starred=qs.most_starred(5), most_popular=qs.most_popular(5), latest=qs.latest(5))
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 @app.route('/about')
 def about():

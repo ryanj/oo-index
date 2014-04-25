@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-#
 # This file may be used instead of Apache mod_wsgi to run your python
 # web application in a different framework.  A few examples are
 # provided (cherrypi, gevent), but this file may be altered to run
@@ -8,11 +7,16 @@
 #
 import imp
 import os
+import sys
+
+#sys.path.insert(0, os.path.dirname(__file__) or '.')
 
 try:
-   zvirtenv = os.path.join(os.environ['OPENSHIFT_PYTHON_DIR'],
-                           'virtenv', 'bin', 'activate_this.py')
-   execfile(zvirtenv, dict(__file__ = zvirtenv) )
+   python_version = "python"+str(sys.version_info[0])+"."+str(sys.version_info[1])
+   virtenv = os.path.join(os.environ.get('OPENSHIFT_PYTHON_DIR','.'), 'virtenv')
+   os.environ['PYTHON_EGG_CACHE'] = os.path.join(virtenv, 'lib', python_version, 'site-packages')
+   virtualenv = os.path.join(virtenv, 'bin/activate_this.py')
+   execfile(virtualenv, dict(__file__=virtualenv))
 except IOError:
    pass
 
@@ -26,9 +30,10 @@ except IOError:
 #  main():
 #
 if __name__ == '__main__':
-   ip   = os.environ['OPENSHIFT_PYTHON_IP']
-   port = int(os.environ['OPENSHIFT_PYTHON_PORT'])
-   app = imp.load_source('application', 'wsgi/application')
+   index = imp.load_source('app', 'indexapp.py')
+   port = index.app.config['PORT']
+   ip = index.app.config['IP']
+   app_name = index.app.config['APP_NAME']
 
    fwtype="wsgiref"
    for fw in ("gevent", "cherrypy", "flask"):
@@ -41,20 +46,20 @@ if __name__ == '__main__':
    print('Starting WSGIServer type %s on %s:%d ... ' % (fwtype, ip, port))
    if fwtype == "gevent":
       from gevent.pywsgi import WSGIServer
-      WSGIServer((ip, port), app.application).serve_forever()
+      WSGIServer((ip, port), index.app).serve_forever()
 
    elif fwtype == "cherrypy":
       from cherrypy import wsgiserver
       server = wsgiserver.CherryPyWSGIServer(
-         (ip, port), app.application, server_name=os.environ['OPENSHIFT_APP_DNS'])
+         (ip, port), index.app, server_name=app_name)
       server.start()
 
    elif fwtype == "flask":
       from flask import Flask
       server = Flask(__name__)
-      server.wsgi_app = app.application
+      server.wsgi_app = index.app
       server.run(host=ip, port=port)
 
    else:
       from wsgiref.simple_server import make_server
-      make_server(ip, port, app.application).serve_forever()
+      make_server(ip, port, index.app).serve_forever()
