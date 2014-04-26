@@ -1,18 +1,28 @@
 [
    {
+<<<<<<< .merge_file_oQ2ezX
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "Zabbix Agent", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/a13m/openshift-zabbix-agent-cartridge", 
       "created_at": "2013-11-11T14:09:45Z", 
       "updated_at": "2013-12-27T11:38:40Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14302444, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "zabbixagent", 
       "owner": "https://github.com/a13m", 
       "forks": "0", 
       "size": 104, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14302444, 
       "description": "a Zabbix agent cartridge"
@@ -21,16 +31,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "a Zabbix agent cartridge"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "Zabbix", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/a13m/openshift-zabbix-cartridge", 
       "created_at": "2013-10-01T15:26:24Z", 
       "updated_at": "2014-01-07T16:49:30Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 13247678, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "zabbix", 
       "owner": "https://github.com/a13m", 
       "forks": "1", 
       "size": 207, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 13247678, 
       "description": "Zabbix server cartridge"
@@ -39,16 +63,30 @@
       "stargazers": "6", 
       "owner_type": "User", 
       "watchers": "6", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Zabbix server cartridge"
+   }, 
+   {
+      "watchers": "6", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "Haskell Cloud", 
       "language": "C", 
       "git_repo_url": "https://github.com/accursoft/Haskell-Cloud", 
       "created_at": "2013-07-21T10:17:43Z", 
       "updated_at": "2014-01-09T14:54:47Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11560104, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "HaskellCloud", 
       "owner": "https://github.com/accursoft", 
       "forks": "3", 
       "size": 67346, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11560104, 
       "description": "OpenShift cartridge for running Haskell programs on Red Hat's cloud."
@@ -57,16 +95,30 @@
       "stargazers": "5", 
       "owner_type": "Organization", 
       "watchers": "5", 
+=======
+      "stargazers": "6", 
+      "owner_type": "User", 
+      "description": "OpenShift cartridge for running Haskell programs on Red Hat's cloud."
+   }, 
+   {
+      "watchers": "5", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "AeroGear", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/aerogear/openshift-origin-cartridge-aerogear-push", 
       "created_at": "2013-08-13T02:31:59Z", 
       "updated_at": "2013-12-06T10:22:56Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12071330, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "AeroGear", 
       "owner": "https://github.com/aerogear", 
       "forks": "9", 
       "size": 21987, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12071330, 
       "description": ""
@@ -75,12 +127,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "5", 
+      "owner_type": "Organization", 
+      "description": ""
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "RefineryCMS", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/BanzaiMan/refinerycms-quickstart", 
       "created_at": "2012-10-04T18:49:23Z", 
       "updated_at": "2013-11-25T19:44:34Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6080083, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "postgresql-9.2"
@@ -89,6 +154,7 @@
       "owner": "https://github.com/BanzaiMan", 
       "forks": "2", 
       "size": 137, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 6080083, 
       "description": "OpenShift quickstart for Refinery CMS"
@@ -97,16 +163,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "OpenShift quickstart for Refinery CMS"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "vertx", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/bdecoste/openshift-origin-cartridge-vertx", 
       "created_at": "2013-06-14T18:35:49Z", 
       "updated_at": "2013-12-16T02:16:57Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10695284, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "vertx", 
       "owner": "https://github.com/bdecoste", 
       "forks": "3", 
       "size": 45447, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10695284, 
       "description": ""
@@ -115,16 +195,30 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "1", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "activemq", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/bdecoste/openshift-origin-cartridge-activemq", 
       "created_at": "2013-05-16T01:30:59Z", 
       "updated_at": "2014-01-09T01:22:15Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10091394, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "activemq", 
       "owner": "https://github.com/bdecoste", 
       "forks": "3", 
       "size": 43168, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10091394, 
       "description": ""
@@ -133,16 +227,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "torquebox", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/bdecoste/openshift-origin-cartridge-torquebox", 
       "created_at": "2013-05-16T13:57:06Z", 
       "updated_at": "2013-12-01T00:01:20Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10102338, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "torquebox", 
       "owner": "https://github.com/bdecoste", 
       "forks": "2", 
       "size": 130566, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10102338, 
       "description": ""
@@ -151,16 +259,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "fuse", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/bmeng/fuse", 
       "created_at": "2013-12-26T13:07:58Z", 
       "updated_at": "2014-01-03T07:35:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15452949, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "fuse", 
       "owner": "https://github.com/bmeng", 
       "forks": "0", 
       "size": 76440, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15452949, 
       "description": "fuse-openshift-cartridge"
@@ -169,12 +291,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "fuse-openshift-cartridge"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "angularjs nodejs mongodb", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/boly38/openshift-angularjs-nodejs-mongodb-quickstart", 
       "created_at": "2014-01-03T10:15:44Z", 
       "updated_at": "2014-01-07T15:30:01Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15606836, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10", 
          "mongodb-2.2"
@@ -183,6 +318,7 @@
       "owner": "https://github.com/boly38", 
       "forks": "1", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 15606836, 
       "description": "openshift-angularjs-nodejs-mongodb-quickstart"
@@ -191,12 +327,25 @@
       "stargazers": "7", 
       "owner_type": "User", 
       "watchers": "7", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "openshift-angularjs-nodejs-mongodb-quickstart"
+   }, 
+   {
+      "watchers": "7", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "moodle", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/burningTyger/openshift_moodle", 
       "created_at": "2013-01-06T00:09:32Z", 
       "updated_at": "2013-12-29T03:56:53Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 7461696, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1", 
@@ -207,6 +356,7 @@
       "owner": "https://github.com/burningTyger", 
       "forks": "6", 
       "size": 209, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 7461696, 
       "description": "The new Openshift Quickstart Moodle repository"
@@ -215,12 +365,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "7", 
+      "owner_type": "User", 
+      "description": "The new Openshift Quickstart Moodle repository"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Elastic Search", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/caruccio/openshift-elasticsearch-quickstart", 
       "created_at": "2013-11-09T23:39:44Z", 
       "updated_at": "2014-01-05T19:25:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14267351, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -228,6 +391,7 @@
       "owner": "https://github.com/caruccio", 
       "forks": "0", 
       "size": 17540, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 14267351, 
       "description": "An ElasticSearch Quickstart for OpenShift"
@@ -236,16 +400,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "An ElasticSearch Quickstart for OpenShift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "play2java", 
       "language": "Scala", 
       "git_repo_url": "https://github.com/DennisVis/openshift-play2java-cartridge", 
       "created_at": "2013-09-03T22:52:24Z", 
       "updated_at": "2013-10-12T23:44:54Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12576804, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "play2java", 
       "owner": "https://github.com/DennisVis", 
       "forks": "2", 
       "size": 399538, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12576804, 
       "description": "openshift-play2java-cartridge"
@@ -272,16 +450,47 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "openshift-play2java-cartridge"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "Cartridge", 
+      "name": "jekyll", 
+      "language": "CSS", 
+      "git_repo_url": "https://github.com/developercorey/openshift-jekyll-cartridge", 
+      "created_at": "2013-12-11T15:27:06Z", 
+      "updated_at": "2014-01-04T02:26:42Z", 
+      "id": 15110955, 
+      "default_app_name": "jekyll", 
+      "owner": "https://github.com/developercorey", 
+      "forks": "3", 
+      "size": 195, 
+      "stargazers": "5", 
+      "owner_type": "User", 
+      "description": "An OpenShift cartridge to run a static website or blog using jekyll"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "jenkins", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/developercorey/openshift-jenkins-cartridge", 
       "created_at": "2014-01-03T17:10:27Z", 
       "updated_at": "2014-01-03T17:41:23Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15614771, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "jenkins", 
       "owner": "https://github.com/developercorey", 
       "forks": "0", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15614771, 
       "description": ""
@@ -290,16 +499,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "wildfly", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/developercorey/openshift-wildfly-cartridge", 
       "created_at": "2013-12-09T23:32:07Z", 
       "updated_at": "2014-01-09T06:48:11Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15062084, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "wildfly", 
       "owner": "https://github.com/developercorey", 
       "forks": "2", 
       "size": 214372, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15062084, 
       "description": "An OpenShift cartridge to install the wildly popular Wildfly server"
@@ -308,12 +531,25 @@
       "stargazers": "17", 
       "owner_type": "User", 
       "watchers": "17", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "An OpenShift cartridge to install the wildly popular Wildfly server"
+   }, 
+   {
+      "watchers": "17", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "tiny tiny rss", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/disconn3ct/tiny_tiny_rss-openshift-quickstart", 
       "created_at": "2013-04-10T12:22:07Z", 
       "updated_at": "2014-01-05T16:52:35Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 9345485, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "postgresql-8.4", 
@@ -323,6 +559,7 @@
       "owner": "https://github.com/disconn3ct", 
       "forks": "6", 
       "size": 3122, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 9345485, 
       "description": "Quickstart for Tiny Tiny RSS, with submodules for mobile plugin and upstream TTRSS source."
@@ -331,12 +568,25 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "17", 
+      "owner_type": "User", 
+      "description": "Quickstart for Tiny Tiny RSS, with submodules for mobile plugin and upstream TTRSS source."
+   }, 
+   {
+      "watchers": "4", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "spring eap6", 
       "language": "Java", 
       "git_repo_url": "https://github.com/fabianofranz/spring-eap6-quickstart", 
       "created_at": "2012-07-03T19:52:50Z", 
       "updated_at": "2013-11-28T23:08:00Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4876743, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbosseap-6.0", 
          "mysql-5.1"
@@ -345,6 +595,7 @@
       "owner": "https://github.com/fabianofranz", 
       "forks": "24", 
       "size": 241, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4876743, 
       "description": "Quickstart for Spring Framework on OpenShift with JBoss EAP 6"
@@ -353,12 +604,25 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Quickstart for Spring Framework on OpenShift with JBoss EAP 6"
+   }, 
+   {
+      "watchers": "4", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "baikal", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/fabianofranz/baikal-openshift-quickstart", 
       "created_at": "2013-12-11T20:42:20Z", 
       "updated_at": "2014-01-07T17:26:59Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15118467, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -367,6 +631,7 @@
       "owner": "https://github.com/fabianofranz", 
       "forks": "1", 
       "size": 2624, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 15118467, 
       "description": "Install the Ba\u00c3\u00afkal open source lightweight CalDAV and CardDAV server on OpenShift, the open source PaaS by Red Hat"
@@ -375,12 +640,25 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Install the Ba\u00c3\u00afkal open source lightweight CalDAV and CardDAV server on OpenShift, the open source PaaS by Red Hat"
+   }, 
+   {
+      "watchers": "4", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "laravel4", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/Fale/openshift-laravel4-quickstart", 
       "created_at": "2013-08-16T21:23:32Z", 
       "updated_at": "2013-12-21T06:28:00Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12168617, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3"
       ], 
@@ -388,6 +666,7 @@
       "owner": "https://github.com/Fale", 
       "forks": "4", 
       "size": 62, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 12168617, 
       "description": "Openshift quickstart for Laravel 4. Composer gets automatically runned at build time"
@@ -396,16 +675,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Openshift quickstart for Laravel 4. Composer gets automatically runned at build time"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "multiple endpoints", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/Filirom1/openshift-cartridge-multiple-endpoints", 
       "created_at": "2013-07-10T08:48:29Z", 
       "updated_at": "2014-01-03T16:20:17Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11306941, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "multipleendpoints", 
       "owner": "https://github.com/Filirom1", 
       "forks": "1", 
       "size": 126, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11306941, 
       "description": "A very simple openshift cartridge to test multiple endpoints"
@@ -414,16 +707,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "A very simple openshift cartridge to test multiple endpoints"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "tcp endpoints", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/Filirom1/openshift-cartridge-tcp-endpoint", 
       "created_at": "2013-07-10T12:28:36Z", 
       "updated_at": "2014-01-03T16:23:09Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11311340, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "tcpendpoints", 
       "owner": "https://github.com/Filirom1", 
       "forks": "1", 
       "size": 132, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11311340, 
       "description": "A very simple openshift cartridge to test tcp endpoints"
@@ -432,12 +739,25 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "A very simple openshift cartridge to test tcp endpoints"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "rediscloud", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/GarantiaData/rediscloud-openshift-quickstart", 
       "created_at": "2013-07-16T14:37:00Z", 
       "updated_at": "2014-01-05T20:02:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11451775, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9"
       ], 
@@ -445,6 +765,7 @@
       "owner": "https://github.com/GarantiaData", 
       "forks": "4", 
       "size": 161, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 11451775, 
       "description": "A Ruby and Redis-Cloud hosted redis bootstrap for RedHat's OpenShift cloud."
@@ -453,16 +774,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "A Ruby and Redis-Cloud hosted redis bootstrap for RedHat's OpenShift cloud."
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "nginx", 
       "language": "Perl", 
       "git_repo_url": "https://github.com/getupcloud/openshift-nginx", 
       "created_at": "2013-11-12T01:19:17Z", 
       "updated_at": "2014-01-02T23:48:28Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14318693, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nginx", 
       "owner": "https://github.com/getupcloud", 
       "forks": "2", 
       "size": 524, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14318693, 
       "description": "Openshift cartridge for nginx static server"
@@ -471,16 +806,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Openshift cartridge for nginx static server"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "nginx php fpm", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/getupcloud/openshift-nginx-php-fpm", 
       "created_at": "2013-11-12T19:54:49Z", 
       "updated_at": "2014-01-08T02:44:07Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14343369, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nginxphpfpm", 
       "owner": "https://github.com/getupcloud", 
       "forks": "3", 
       "size": 616, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14343369, 
       "description": "Openshift cartridge for nginx static server with php-fpm support"
@@ -489,16 +838,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Openshift cartridge for nginx static server with php-fpm support"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "fabric", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/gnodet/fabric-openshift-cartridge", 
       "created_at": "2014-01-09T08:55:24Z", 
       "updated_at": "2014-01-09T10:53:58Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15761542, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "fabric", 
       "owner": "https://github.com/gnodet", 
       "forks": "0", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15761542, 
       "description": "OpenShift cartridge for running Fabric8"
@@ -507,12 +870,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "OpenShift cartridge for running Fabric8"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "rails", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/gshipley/rails-openshift-quickstart", 
       "created_at": "2011-08-12T13:55:48Z", 
       "updated_at": "2014-01-05T23:37:00Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2197256, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "mysql-5.1"
@@ -521,6 +897,7 @@
       "owner": "https://github.com/gshipley", 
       "forks": "66", 
       "size": 230, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2197256, 
       "description": "Rails quickstart application for deployment on openshift"
@@ -529,12 +906,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Rails quickstart application for deployment on openshift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "elgg", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/gshipley/elgg-openshift-quickstart", 
       "created_at": "2011-12-12T20:19:13Z", 
       "updated_at": "2013-10-07T15:39:18Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2967125, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -543,6 +933,7 @@
       "owner": "https://github.com/gshipley", 
       "forks": "3", 
       "size": 3114, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2967125, 
       "description": "Elgg quickstart for Red Hat OpenShift"
@@ -551,12 +942,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Elgg quickstart for Red Hat OpenShift"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "rails", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/gshipley/rails-openshift-quickstart", 
       "created_at": "2011-08-12T13:55:48Z", 
       "updated_at": "2014-01-05T23:37:00Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2197256, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "mysql-5.1"
@@ -565,6 +969,7 @@
       "owner": "https://github.com/gshipley", 
       "forks": "66", 
       "size": 230, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2197256, 
       "description": "Rails quickstart application for deployment on openshift"
@@ -573,12 +978,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Rails quickstart application for deployment on openshift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "sqlbuddy", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/gshipley/sqlbuddy-openshift-quickstart", 
       "created_at": "2011-08-16T14:19:45Z", 
       "updated_at": "2013-12-21T22:23:48Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2216123, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -587,6 +1005,7 @@
       "owner": "https://github.com/gshipley", 
       "forks": "2", 
       "size": 403, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2216123, 
       "description": "SQLBuddy quickstart application for deployment on Openshift Express"
@@ -595,16 +1014,30 @@
       "stargazers": "5", 
       "owner_type": "User", 
       "watchers": "5", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "SQLBuddy quickstart application for deployment on Openshift Express"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "nginx", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/gsterjov/openshift-nginx-cartridge", 
       "created_at": "2013-08-11T12:35:12Z", 
       "updated_at": "2014-01-07T04:07:53Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12035670, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nginx", 
       "owner": "https://github.com/gsterjov", 
       "forks": "8", 
       "size": 46892, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12035670, 
       "description": "An Nginx Cartridge for OpenShift"
@@ -613,16 +1046,30 @@
       "stargazers": "7", 
       "owner_type": "User", 
       "watchers": "7", 
+=======
+      "stargazers": "5", 
+      "owner_type": "User", 
+      "description": "An Nginx Cartridge for OpenShift"
+   }, 
+   {
+      "watchers": "7", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "nginx", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/gsterjov/openshift-nginx", 
       "created_at": "2013-05-31T02:48:12Z", 
       "updated_at": "2013-12-06T05:19:40Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10396604, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nginx", 
       "owner": "https://github.com/gsterjov", 
       "forks": "3", 
       "size": 113, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10396604, 
       "description": "Nginx application for OpenShift. For a downloadable cartridge check out https://github.com/gsterjov/openshift-nginx-cartridge"
@@ -631,12 +1078,25 @@
       "stargazers": "24", 
       "owner_type": "User", 
       "watchers": "24", 
+=======
+      "stargazers": "7", 
+      "owner_type": "User", 
+      "description": "Nginx application for OpenShift. For a downloadable cartridge check out https://github.com/gsterjov/openshift-nginx-cartridge"
+   }, 
+   {
+      "watchers": "24", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "owncloud", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/ichristo/owncloud-openshift-quickstart", 
       "created_at": "2012-09-02T06:45:18Z", 
       "updated_at": "2013-12-31T16:40:43Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5646336, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1", 
@@ -646,6 +1106,7 @@
       "owner": "https://github.com/ichristo", 
       "forks": "21", 
       "size": 23755, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5646336, 
       "description": "OpenShift ownCloud Quickstart"
@@ -654,16 +1115,30 @@
       "stargazers": "3", 
       "owner_type": "Organization", 
       "watchers": "3", 
+=======
+      "stargazers": "24", 
+      "owner_type": "User", 
+      "description": "OpenShift ownCloud Quickstart"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "immuntant", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/immutant/openshift-immutant-cart", 
       "created_at": "2013-08-13T20:00:04Z", 
       "updated_at": "2013-11-21T13:59:14Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12091420, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "immuntant", 
       "owner": "https://github.com/immutant", 
       "forks": "2", 
       "size": 52768, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12091420, 
       "description": "An OpenShift 2.0 cartridge for Immutant"
@@ -672,12 +1147,25 @@
       "stargazers": "3", 
       "owner_type": "Organization", 
       "watchers": "3", 
+=======
+      "stargazers": "3", 
+      "owner_type": "Organization", 
+      "description": "An OpenShift 2.0 cartridge for Immutant"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "ironmq", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/iron-io/ironmq-openshift-quickstart", 
       "created_at": "2013-02-14T21:08:07Z", 
       "updated_at": "2013-09-03T19:53:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8207677, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9"
       ], 
@@ -685,6 +1173,7 @@
       "owner": "https://github.com/iron-io", 
       "forks": "3", 
       "size": 140, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8207677, 
       "description": ""
@@ -693,12 +1182,25 @@
       "stargazers": "6", 
       "owner_type": "User", 
       "watchers": "6", 
+=======
+      "stargazers": "3", 
+      "owner_type": "Organization", 
+      "description": ""
+   }, 
+   {
+      "watchers": "6", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "statusnet", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/jasonbrooks/statusnet-openshift-quickstart", 
       "created_at": "2012-08-23T19:53:46Z", 
       "updated_at": "2013-08-09T20:34:09Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5531565, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -707,6 +1209,7 @@
       "owner": "https://github.com/jasonbrooks", 
       "forks": "2", 
       "size": 10823, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5531565, 
       "description": ""
@@ -715,16 +1218,30 @@
       "stargazers": "3", 
       "owner_type": "Organization", 
       "watchers": "3", 
+=======
+      "stargazers": "6", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "fuse", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/jboss-fuse/fuse-openshift-cartridge", 
       "created_at": "2013-04-26T13:51:54Z", 
       "updated_at": "2014-01-09T14:28:40Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 9696296, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "fuse", 
       "owner": "https://github.com/jboss-fuse", 
       "forks": "6", 
       "size": 1521, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 9696296, 
       "description": "an openshift cartridge for running Fuse and Fuse Fabric"
@@ -733,16 +1250,30 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "3", 
+      "owner_type": "Organization", 
+      "description": "an openshift cartridge for running Fuse and Fuse Fabric"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "custom php", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/jhou1/openshift-custom-php", 
       "created_at": "2013-05-07T06:10:29Z", 
       "updated_at": "2014-01-07T02:54:23Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 9905296, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "customphp", 
       "owner": "https://github.com/jhou1", 
       "forks": "1", 
       "size": 254, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 9905296, 
       "description": "Add this cartridge with url"
@@ -751,12 +1282,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "Add this cartridge with url"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "grails", 
       "gear_size": "medium", 
       "git_repo_url": "https://github.com/jsonxr/openshift-grails-quickstart", 
       "created_at": "2012-09-24T06:08:54Z", 
       "updated_at": "2013-11-06T03:37:45Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5930512, 
+>>>>>>> .merge_file_s84CB0
       "language": "Groovy", 
       "cartridges": [
          "diy-0.1"
@@ -765,6 +1309,7 @@
       "owner": "https://github.com/jsonxr", 
       "forks": "4", 
       "size": 57922, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5930512, 
       "description": "This is a diy cartridge for running a grails application on openshift"
@@ -773,16 +1318,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "This is a diy cartridge for running a grails application on openshift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "origin qpid", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/jwhonce/openshift-origin-cartridge-qpid", 
       "created_at": "2013-12-18T16:51:23Z", 
       "updated_at": "2014-01-08T22:27:23Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15288839, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "originqpid", 
       "owner": "https://github.com/jwhonce", 
       "forks": "0", 
       "size": 17500, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15288839, 
       "description": ""
@@ -791,12 +1350,25 @@
       "stargazers": "7", 
       "owner_type": "User", 
       "watchers": "7", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "7", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "plone", 
       "language": "Python", 
       "git_repo_url": "https://github.com/kagesenshi/plone-openshift-quickstart", 
       "created_at": "2012-07-23T15:20:40Z", 
       "updated_at": "2013-11-18T06:43:37Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5153548, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -804,6 +1376,7 @@
       "owner": "https://github.com/kagesenshi", 
       "forks": "7", 
       "size": 153, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5153548, 
       "description": "Plone 4.2 on OpenShift"
@@ -812,12 +1385,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "7", 
+      "owner_type": "User", 
+      "description": "Plone 4.2 on OpenShift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "grok", 
       "language": "Python", 
       "git_repo_url": "https://github.com/kagesenshi/grok-openshift-quickstart", 
       "created_at": "2012-07-24T13:06:07Z", 
       "updated_at": "2013-12-06T03:51:20Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5165622, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -825,6 +1411,7 @@
       "owner": "https://github.com/kagesenshi", 
       "forks": "2", 
       "size": 177, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5165622, 
       "description": "Grok framework quickstart template for OpenShift"
@@ -833,16 +1420,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Grok framework quickstart template for OpenShift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "Plone cartridge", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/kagesenshi/cartridge-plone", 
       "created_at": "2012-07-22T14:21:13Z", 
       "updated_at": "2013-11-28T23:52:11Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5142056, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "plone", 
       "owner": "https://github.com/kagesenshi", 
       "forks": "1", 
       "size": 119, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 5142056, 
       "description": "Plone cartridge for OpenShift"
@@ -851,12 +1452,25 @@
       "stargazers": "5", 
       "owner_type": "User", 
       "watchers": "5", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Plone cartridge for OpenShift"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Liferay Portal", 
       "gear_size": "medium", 
       "git_repo_url": "https://github.com/kameshsampath/jbossas7-liferay-quickstart", 
       "created_at": "2012-06-27T14:33:34Z", 
       "updated_at": "2013-12-13T15:36:01Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4809375, 
+>>>>>>> .merge_file_s84CB0
       "language": "Shell", 
       "cartridges": [
          "jbossas-7", 
@@ -866,6 +1480,7 @@
       "owner": "https://github.com/kameshsampath", 
       "forks": "7", 
       "size": 9934, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4809375, 
       "description": "An Openshift Quick start project for running Liferay Portal on OpenShift"
@@ -874,12 +1489,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "5", 
+      "owner_type": "User", 
+      "description": "An Openshift Quick start project for running Liferay Portal on OpenShift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Radiant CMS", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/kelvinmo/radiantcms-openshift-quickstart", 
       "created_at": "2013-07-06T11:22:28Z", 
       "updated_at": "2014-01-05T23:30:47Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11217215, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "mysql-5"
@@ -888,6 +1516,7 @@
       "owner": "https://github.com/kelvinmo", 
       "forks": "0", 
       "size": 128, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 11217215, 
       "description": "RadiantCMS quick start repository on OpenShift"
@@ -896,12 +1525,25 @@
       "stargazers": "11", 
       "owner_type": "User", 
       "watchers": "11", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "RadiantCMS quick start repository on OpenShift"
+   }, 
+   {
+      "watchers": "11", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "ghost", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/Laures/ghost-openshift-quickstart", 
       "created_at": "2013-10-18T23:10:22Z", 
       "updated_at": "2014-01-09T16:34:11Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 13691723, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10", 
          "mysql-5.1"
@@ -910,6 +1552,7 @@
       "owner": "https://github.com/Laures", 
       "forks": "3", 
       "size": 1777, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 13691723, 
       "description": "Quickstart for Openshift to start a new Blog running on Ghost"
@@ -918,12 +1561,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "11", 
+      "owner_type": "User", 
+      "description": "Quickstart for Openshift to start a new Blog running on Ghost"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "spacebukkit minecraft", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/Laures/spacebukkit-openshift-quickstart", 
       "created_at": "2013-06-11T18:09:33Z", 
       "updated_at": "2014-01-09T16:35:04Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10627542, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -932,6 +1588,7 @@
       "owner": "https://github.com/Laures", 
       "forks": "2", 
       "size": 18747, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 10627542, 
       "description": "OpenShift Quickstart for a Minecraft CraftBukkit Server with the SpaceBukkit Admin Interface"
@@ -940,12 +1597,25 @@
       "stargazers": "11", 
       "owner_type": "User", 
       "watchers": "11", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "OpenShift Quickstart for a Minecraft CraftBukkit Server with the SpaceBukkit Admin Interface"
+   }, 
+   {
+      "watchers": "11", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Pyramid", 
       "language": "Python", 
       "git_repo_url": "https://github.com/lmacken/pyramid-openshift-quickstart", 
       "created_at": "2011-09-11T20:57:15Z", 
       "updated_at": "2013-11-14T14:01:03Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2367425, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.7", 
          "mysql-5.1"
@@ -954,6 +1624,7 @@
       "owner": "https://github.com/lmacken", 
       "forks": "10", 
       "size": 241, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2367425, 
       "description": "Pyramid + SQLALchemy quickstart repository for OpenShift Express"
@@ -962,12 +1633,25 @@
       "stargazers": "6", 
       "owner_type": "User", 
       "watchers": "6", 
+=======
+      "stargazers": "11", 
+      "owner_type": "User", 
+      "description": "Pyramid + SQLALchemy quickstart repository for OpenShift Express"
+   }, 
+   {
+      "watchers": "6", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "turbogears2", 
       "language": "Python", 
       "git_repo_url": "https://github.com/lmacken/turbogears2-openshift-quickstart", 
       "created_at": "2011-09-11T23:21:47Z", 
       "updated_at": "2014-01-08T22:15:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2368147, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.7", 
          "mysql-5.1"
@@ -976,6 +1660,7 @@
       "owner": "https://github.com/lmacken", 
       "forks": "2", 
       "size": 236, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2368147, 
       "description": "TurboGears2 quickstart for Red Hat's OpenShift Express Cloud"
@@ -984,12 +1669,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "6", 
+      "owner_type": "User", 
+      "description": "TurboGears2 quickstart for Red Hat's OpenShift Express Cloud"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Omeka", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/loudWhale/omeka-quickstart", 
       "created_at": "2013-02-18T02:34:05Z", 
       "updated_at": "2014-01-05T22:43:46Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8260365, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -998,6 +1696,7 @@
       "owner": "https://github.com/loudWhale", 
       "forks": "1", 
       "size": 11470, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8260365, 
       "description": "omeka-quickstart Quickstart Omeka 2.1.3 on OpenShift Express. Omeka is a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions."
@@ -1006,12 +1705,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "omeka-quickstart Quickstart Omeka 2.1.3 on OpenShift Express. Omeka is a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions."
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "tomcat", 
       "language": "Java", 
       "git_repo_url": "https://github.com/lulinqing/openshift-tomcat-quickstart", 
       "created_at": "2012-08-14T10:35:11Z", 
       "updated_at": "2014-01-02T00:18:35Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 5411420, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1019,6 +1731,7 @@
       "owner": "https://github.com/lulinqing", 
       "forks": "33", 
       "size": 6068, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 5411420, 
       "description": ""
@@ -1027,12 +1740,25 @@
       "stargazers": "10", 
       "owner_type": "User", 
       "watchers": "10", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "10", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "tiny tiny rss", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/lulinqing/tiny_tiny_rss-openshift-quickstart", 
       "created_at": "2013-03-14T09:05:16Z", 
       "updated_at": "2013-12-30T10:46:37Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8771662, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "postgresql-8.4"
@@ -1041,6 +1767,7 @@
       "owner": "https://github.com/lulinqing", 
       "forks": "24", 
       "size": 2210, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8771662, 
       "description": ""
@@ -1049,12 +1776,25 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "10", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "4", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "OSQA", 
       "language": "Python", 
       "git_repo_url": "https://github.com/lulinqing/OSQA-openshift-quickstart", 
       "created_at": "2012-02-08T13:10:20Z", 
       "updated_at": "2013-12-11T21:53:19Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3387289, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.6", 
          "mysql-5.1"
@@ -1063,6 +1803,7 @@
       "owner": "https://github.com/lulinqing", 
       "forks": "7", 
       "size": 1764, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3387289, 
       "description": "OSQA with mysql support"
@@ -1071,12 +1812,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "OSQA with mysql support"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "BookMarks", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/lulinqing/BookMarks-openshift-quickstart", 
       "created_at": "2012-02-27T05:29:19Z", 
       "updated_at": "2014-01-07T11:40:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3557647, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.6", 
          "mysql-5.1"
@@ -1085,6 +1839,7 @@
       "owner": "https://github.com/lulinqing", 
       "forks": "1", 
       "size": 195, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3557647, 
       "description": "BookMarks Sample App on OpenShift"
@@ -1093,12 +1848,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "BookMarks Sample App on OpenShift"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Redmine", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/mastersin/redmine-openshift-quickstart", 
       "created_at": "2011-12-19T01:24:10Z", 
       "updated_at": "2014-01-09T04:56:19Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3009103, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "mysql-5.1"
@@ -1107,6 +1875,7 @@
       "owner": "https://github.com/mastersin", 
       "forks": "0", 
       "size": 4004, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3009103, 
       "description": "Redmine project management software for openshift express"
@@ -1115,12 +1884,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "Redmine project management software for openshift express"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "gatein", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/matejonnet/gatein-openshift", 
       "created_at": "2012-06-19T11:54:07Z", 
       "updated_at": "2013-12-07T16:29:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4712985, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7"
       ], 
@@ -1128,6 +1910,7 @@
       "owner": "https://github.com/matejonnet", 
       "forks": "2", 
       "size": 1976, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4712985, 
       "description": "OpenShift Quickstart for GateIn portal"
@@ -1136,16 +1919,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "OpenShift Quickstart for GateIn portal"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "ceylon", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/matejonnet/openshift-cartridge-ceylon", 
       "created_at": "2013-05-27T12:08:29Z", 
       "updated_at": "2013-12-12T23:06:30Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10314094, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "ceylon", 
       "owner": "https://github.com/matejonnet", 
       "forks": "2", 
       "size": 18295, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10314094, 
       "description": ""
@@ -1154,12 +1951,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "joomla3", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/meghraj27/joomla3-quickstart-openshift-example", 
       "created_at": "2013-02-23T18:19:23Z", 
       "updated_at": "2013-12-03T06:32:41Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8379562, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -1168,6 +1978,7 @@
       "owner": "https://github.com/meghraj27", 
       "forks": "5", 
       "size": 5692, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8379562, 
       "description": "Joomla3 quick start repo for OpenShift"
@@ -1176,12 +1987,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Joomla3 quick start repo for OpenShift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "rails4 example", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/mfojtik/rails4-example", 
       "created_at": "2014-01-06T11:55:56Z", 
       "updated_at": "2014-01-06T13:14:30Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15672820, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "postgresql-9.2"
@@ -1190,6 +2014,7 @@
       "owner": "https://github.com/mfojtik", 
       "forks": "0", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 15672820, 
       "description": "Rails 4 quickstart application for deployment on openshift"
@@ -1198,16 +2023,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "Rails 4 quickstart application for deployment on openshift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "ruby dev", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/mfojtik/openshift-origin-cartridge-ruby-dev", 
       "created_at": "2013-09-17T11:11:39Z", 
       "updated_at": "2014-01-01T18:10:47Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12893220, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "rubydev", 
       "owner": "https://github.com/mfojtik", 
       "forks": "0", 
       "size": 172, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12893220, 
       "description": "An experimental ruby cartridge for OpenShift"
@@ -1216,16 +2055,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "An experimental ruby cartridge for OpenShift"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "varnish", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/mmcgrath-openshift/openshift-cartridge-varnish", 
       "created_at": "2013-10-30T20:28:00Z", 
       "updated_at": "2013-12-03T20:07:43Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 13998759, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "varnish", 
       "owner": "https://github.com/mmcgrath-openshift", 
       "forks": "2", 
       "size": 712, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 13998759, 
       "description": "Simple varnish cartridge to help speed up performance."
@@ -1234,12 +2087,25 @@
       "stargazers": "5", 
       "owner_type": "Organization", 
       "watchers": "5", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Simple varnish cartridge to help speed up performance."
+   }, 
+   {
+      "watchers": "5", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "mongolab", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/mongolab/mongolab-openshift-quickstart", 
       "created_at": "2013-02-27T18:59:35Z", 
       "updated_at": "2013-11-26T18:50:19Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8462949, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1247,6 +2113,7 @@
       "owner": "https://github.com/mongolab", 
       "forks": "2", 
       "size": 164, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8462949, 
       "description": "A Node.js and MongoLab-hosted MongoDB bootstrap for RedHat's OpenShift cloud."
@@ -1255,16 +2122,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "5", 
+      "owner_type": "Organization", 
+      "description": "A Node.js and MongoLab-hosted MongoDB bootstrap for RedHat's OpenShift cloud."
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "Felix OSGi", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/mthmulders/openshift-felix-cartridge", 
       "created_at": "2014-01-05T14:37:30Z", 
       "updated_at": "2014-01-08T22:25:30Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15652586, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "felix", 
       "owner": "https://github.com/mthmulders", 
       "forks": "0", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15652586, 
       "description": "OpenShift cartridge installing the Apache Felix OSGi runtime"
@@ -1273,12 +2154,25 @@
       "stargazers": "8", 
       "owner_type": "Organization", 
       "watchers": "8", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "OpenShift cartridge installing the Apache Felix OSGi runtime"
+   }, 
+   {
+      "watchers": "8", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "nodefly", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/NodeFly/nodefly-openshift-quickstart", 
       "created_at": "2013-02-19T18:29:43Z", 
       "updated_at": "2013-10-22T15:16:39Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8296529, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1286,6 +2180,7 @@
       "owner": "https://github.com/NodeFly", 
       "forks": "5", 
       "size": 154, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8296529, 
       "description": ""
@@ -1294,12 +2189,25 @@
       "stargazers": "9", 
       "owner_type": "User", 
       "watchers": "9", 
+=======
+      "stargazers": "8", 
+      "owner_type": "Organization", 
+      "description": ""
+   }, 
+   {
+      "watchers": "9", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "play2 for hipsters", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/olegchir/play2-openshift-for-hipsters", 
       "created_at": "2013-08-11T10:38:16Z", 
       "updated_at": "2013-11-24T04:19:22Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12034494, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1307,6 +2215,7 @@
       "owner": "https://github.com/olegchir", 
       "forks": "2", 
       "size": 144, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 12034494, 
       "description": "advanced quickstart for playframework2-based application on RedHat OpenShift"
@@ -1315,12 +2224,25 @@
       "stargazers": "82", 
       "owner_type": "User", 
       "watchers": "82", 
+=======
+      "stargazers": "9", 
+      "owner_type": "User", 
+      "description": "advanced quickstart for playframework2-based application on RedHat OpenShift"
+   }, 
+   {
+      "watchers": "82", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "play2", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/opensas/play2-openshift-quickstart", 
       "created_at": "2012-03-29T12:59:57Z", 
       "updated_at": "2013-12-26T16:06:44Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3866066, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1328,6 +2250,7 @@
       "owner": "https://github.com/opensas", 
       "forks": "23", 
       "size": 255, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3866066, 
       "description": "Play framework 2.0 quickstart for Openshift"
@@ -1336,12 +2259,25 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "82", 
+      "owner_type": "User", 
+      "description": "Play framework 2.0 quickstart for Openshift"
+   }, 
+   {
+      "watchers": "4", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "play2 java", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/opensas/openshift-play2-java-quickstart", 
       "created_at": "2012-04-14T20:53:05Z", 
       "updated_at": "2013-12-17T23:07:51Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4027695, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1349,6 +2285,7 @@
       "owner": "https://github.com/opensas", 
       "forks": "3", 
       "size": 145, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4027695, 
       "description": "Quickstart project to deploy a play2 java application on openshift"
@@ -1357,12 +2294,25 @@
       "stargazers": "6", 
       "owner_type": "User", 
       "watchers": "6", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Quickstart project to deploy a play2 java application on openshift"
+   }, 
+   {
+      "watchers": "6", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "play example", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/opensas/play-example", 
       "created_at": "2012-03-18T02:45:28Z", 
       "updated_at": "2013-10-08T10:18:54Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3752427, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1370,6 +2320,7 @@
       "owner": "https://github.com/opensas", 
       "forks": "3", 
       "size": 720, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3752427, 
       "description": "Play framework 1.2.4 quickstart for Openshift"
@@ -1378,12 +2329,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "6", 
+      "owner_type": "User", 
+      "description": "Play framework 1.2.4 quickstart for Openshift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "play2 java example", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/opensas/play2-java-example", 
       "created_at": "2012-03-19T04:38:12Z", 
       "updated_at": "2013-11-02T04:57:51Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3760702, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1391,6 +2355,7 @@
       "owner": "https://github.com/opensas", 
       "forks": "2", 
       "size": 290, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3760702, 
       "description": "Play framework 2.0 with java quickstart for Openshift"
@@ -1399,12 +2364,25 @@
       "stargazers": "20", 
       "owner_type": "Organization", 
       "watchers": "20", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Play framework 2.0 with java quickstart for Openshift"
+   }, 
+   {
+      "watchers": "20", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "drupal", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift/drupal-quickstart", 
       "created_at": "2013-01-20T22:56:51Z", 
       "updated_at": "2014-01-05T23:29:01Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 7723134, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -1413,6 +2391,7 @@
       "owner": "https://github.com/openshift", 
       "forks": "38", 
       "size": 233, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 7723134, 
       "description": "A simple easy to use Drupal installation on OpenShift that will do it all for you!"
@@ -1421,12 +2400,25 @@
       "stargazers": "32", 
       "owner_type": "Organization", 
       "watchers": "32", 
+=======
+      "stargazers": "20", 
+      "owner_type": "Organization", 
+      "description": "A simple easy to use Drupal installation on OpenShift that will do it all for you!"
+   }, 
+   {
+      "watchers": "32", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "kitchensink", 
       "language": "Java", 
       "git_repo_url": "https://github.com/openshift/kitchensink-example", 
       "created_at": "2012-03-02T19:36:32Z", 
       "updated_at": "2014-01-02T09:17:04Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3605416, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7"
       ], 
@@ -1434,6 +2426,7 @@
       "owner": "https://github.com/openshift", 
       "forks": "52", 
       "size": 204, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3605416, 
       "description": "Demo application on OpenShift | Kitchensink quickstart shows off all the new features of Java EE 6, and makes a great starting point for your project."
@@ -1442,16 +2435,30 @@
       "stargazers": "16", 
       "owner_type": "Organization", 
       "watchers": "16", 
+=======
+      "stargazers": "32", 
+      "owner_type": "Organization", 
+      "description": "Demo application on OpenShift | Kitchensink quickstart shows off all the new features of Java EE 6, and makes a great starting point for your project."
+   }, 
+   {
+      "watchers": "16", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "community", 
       "language": "Java", 
       "git_repo_url": "https://github.com/openshift/origin-community-cartridges", 
       "created_at": "2012-11-26T20:11:30Z", 
       "updated_at": "2013-12-27T19:18:39Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6871624, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "community", 
       "owner": "https://github.com/openshift", 
       "forks": "32", 
       "size": 473751, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 6871624, 
       "description": "OpenShift Origin cartridges contributed by community members"
@@ -1460,16 +2467,30 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "16", 
+      "owner_type": "Organization", 
+      "description": "OpenShift Origin cartridges contributed by community members"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "clojure", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-cartridges/clojure-cartridge", 
       "created_at": "2013-11-20T13:44:44Z", 
       "updated_at": "2014-01-07T23:46:13Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14557659, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "clojure", 
       "owner": "https://github.com/openshift-cartridges", 
       "forks": "4", 
       "size": 108, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14557659, 
       "description": "OpenShift cartridge for running clojure application"
@@ -1478,16 +2499,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "OpenShift cartridge for running clojure application"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "postgresql", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-qe/cartridge-postgresql", 
       "created_at": "2013-12-23T18:31:32Z", 
       "updated_at": "2014-01-06T23:58:11Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15401912, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "postgresql", 
       "owner": "https://github.com/openshift-qe", 
       "forks": "0", 
       "size": 6996, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 15401912, 
       "description": "openshift-origin-cartridge-postgresql"
@@ -1496,12 +2531,25 @@
       "stargazers": "32", 
       "owner_type": "Organization", 
       "watchers": "32", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "openshift-origin-cartridge-postgresql"
+   }, 
+   {
+      "watchers": "32", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Ghost 0.4", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/openshift-quickstart/openshift-ghost-quickstart", 
       "created_at": "2013-10-14T16:24:01Z", 
       "updated_at": "2014-01-07T15:10:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 13566582, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1509,6 +2557,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "19", 
       "size": 13333, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 13566582, 
       "description": "Ghost blog quickstart for the OpenShift platform"
@@ -1517,12 +2566,25 @@
       "stargazers": "22", 
       "owner_type": "Organization", 
       "watchers": "22", 
+=======
+      "stargazers": "32", 
+      "owner_type": "Organization", 
+      "description": "Ghost blog quickstart for the OpenShift platform"
+   }, 
+   {
+      "watchers": "22", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "bottle", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/bottle-openshift-quickstart", 
       "created_at": "2011-11-30T05:34:08Z", 
       "updated_at": "2013-11-30T18:08:27Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2880874, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.6"
       ], 
@@ -1530,6 +2592,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "13", 
       "size": 133, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2880874, 
       "description": "Bottle Python WSGI microframework Quickstart for OpenShift Express"
@@ -1538,12 +2601,25 @@
       "stargazers": "8", 
       "owner_type": "Organization", 
       "watchers": "8", 
+=======
+      "stargazers": "22", 
+      "owner_type": "Organization", 
+      "description": "Bottle Python WSGI microframework Quickstart for OpenShift Express"
+   }, 
+   {
+      "watchers": "8", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "jetty", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/jetty-openshift-quickstart", 
       "created_at": "2012-06-16T16:56:11Z", 
       "updated_at": "2013-09-29T01:18:27Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4686087, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1551,6 +2627,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "12", 
       "size": 127, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4686087, 
       "description": "Jetty on OpenShift"
@@ -1559,12 +2636,25 @@
       "stargazers": "7", 
       "owner_type": "Organization", 
       "watchers": "7", 
+=======
+      "stargazers": "8", 
+      "owner_type": "Organization", 
+      "description": "Jetty on OpenShift"
+   }, 
+   {
+      "watchers": "7", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "vertx", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/vertx-openshift-quickstart", 
       "created_at": "2012-03-03T17:29:04Z", 
       "updated_at": "2013-12-14T02:39:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3612317, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1572,6 +2662,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "9", 
       "size": 222, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3612317, 
       "description": "Vert.x on OpenShift"
@@ -1580,12 +2671,25 @@
       "stargazers": "16", 
       "owner_type": "Organization", 
       "watchers": "16", 
+=======
+      "stargazers": "7", 
+      "owner_type": "Organization", 
+      "description": "Vert.x on OpenShift"
+   }, 
+   {
+      "watchers": "16", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "jbossas mongoDB", 
       "language": "Java", 
       "git_repo_url": "https://github.com/openshift-quickstart/jbossas-mongoDB-quickstart", 
       "created_at": "2011-11-23T23:02:24Z", 
       "updated_at": "2013-12-25T09:26:56Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2839754, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7", 
          "mongodb-2.2"
@@ -1594,6 +2698,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "12", 
       "size": 440, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2839754, 
       "description": "Demo application on OpenShift | A simple tutorial on using MongoDB with the JBoss AS7 application type"
@@ -1602,12 +2707,25 @@
       "stargazers": "11", 
       "owner_type": "Organization", 
       "watchers": "11", 
+=======
+      "stargazers": "16", 
+      "owner_type": "Organization", 
+      "description": "Demo application on OpenShift | A simple tutorial on using MongoDB with the JBoss AS7 application type"
+   }, 
+   {
+      "watchers": "11", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "torquebox", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/torquebox-quickstart", 
       "created_at": "2013-02-24T20:39:41Z", 
       "updated_at": "2014-01-09T15:47:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8396377, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7"
       ], 
@@ -1615,6 +2733,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "6", 
       "size": 234, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8396377, 
       "description": "OpenShift Quickstart for Torquebox"
@@ -1623,12 +2742,25 @@
       "stargazers": "3", 
       "owner_type": "Organization", 
       "watchers": "3", 
+=======
+      "stargazers": "11", 
+      "owner_type": "Organization", 
+      "description": "OpenShift Quickstart for Torquebox"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "reveal.js", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/openshift-quickstart/reveal.js-openshift-quickstart", 
       "created_at": "2013-02-20T09:38:56Z", 
       "updated_at": "2013-12-02T14:16:23Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8310096, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1636,6 +2768,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "6", 
       "size": 278, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8310096, 
       "description": ""
@@ -1644,12 +2777,25 @@
       "stargazers": "6", 
       "owner_type": "Organization", 
       "watchers": "6", 
+=======
+      "stargazers": "3", 
+      "owner_type": "Organization", 
+      "description": ""
+   }, 
+   {
+      "watchers": "6", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "awestruct", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/openshift-quickstart/awestruct-openshift-quickstart", 
       "created_at": "2012-05-19T08:59:59Z", 
       "updated_at": "2013-11-11T20:26:18Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4376895, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9"
       ], 
@@ -1657,6 +2803,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "5", 
       "size": 343, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4376895, 
       "description": "Awestruct site generator template for OpenShift"
@@ -1665,12 +2812,25 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "6", 
+      "owner_type": "Organization", 
+      "description": "Awestruct site generator template for OpenShift"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Ghost 0.4 w/ mySQL", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/openshift-quickstart/openshift-ghost-mysql-quickstart", 
       "created_at": "2013-11-05T18:13:26Z", 
       "updated_at": "2013-12-26T12:38:03Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14149728, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10", 
          "mysql-5.1"
@@ -1679,6 +2839,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "5", 
       "size": 12597, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 14149728, 
       "description": "OpenShift quickstart for running Ghost with MySQL"
@@ -1687,12 +2848,25 @@
       "stargazers": "13", 
       "owner_type": "Organization", 
       "watchers": "13", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "OpenShift quickstart for running Ghost with MySQL"
+   }, 
+   {
+      "watchers": "13", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "immuntant", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/immutant-quickstart", 
       "created_at": "2013-02-24T20:40:13Z", 
       "updated_at": "2013-12-30T08:48:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8396391, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7"
       ], 
@@ -1700,6 +2874,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "2", 
       "size": 198, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8396391, 
       "description": "OpenShift Quickstart for Immutant"
@@ -1708,12 +2883,25 @@
       "stargazers": "11", 
       "owner_type": "Organization", 
       "watchers": "11", 
+=======
+      "stargazers": "13", 
+      "owner_type": "Organization", 
+      "description": "OpenShift Quickstart for Immutant"
+   }, 
+   {
+      "watchers": "11", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "jruby", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/openshift-quickstart/jruby-openshift-quickstart", 
       "created_at": "2012-02-27T20:04:11Z", 
       "updated_at": "2013-10-11T17:35:55Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3564181, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1721,6 +2909,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "2", 
       "size": 111, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3564181, 
       "description": "JRuby template for OpenShift"
@@ -1729,12 +2918,25 @@
       "stargazers": "8", 
       "owner_type": "Organization", 
       "watchers": "8", 
+=======
+      "stargazers": "11", 
+      "owner_type": "Organization", 
+      "description": "JRuby template for OpenShift"
+   }, 
+   {
+      "watchers": "8", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "kitchensink", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/openshift-quickstart/kitchensink-html5-mobile-example", 
       "created_at": "2012-03-02T19:32:03Z", 
       "updated_at": "2013-12-07T20:14:49Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3605371, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "jbossas-7"
       ], 
@@ -1742,6 +2944,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "12", 
       "size": 359, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3605371, 
       "description": "Demo application on OpenShift | The kitchensink html5/mboile JBoss Quickstart application."
@@ -1750,12 +2953,25 @@
       "stargazers": "1", 
       "owner_type": "Organization", 
       "watchers": "1", 
+=======
+      "stargazers": "8", 
+      "owner_type": "Organization", 
+      "description": "Demo application on OpenShift | The kitchensink html5/mboile JBoss Quickstart application."
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "tweetshifter", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/openshift-quickstart/tweetshifter-openshift-quickstart", 
       "created_at": "2012-11-30T09:13:05Z", 
       "updated_at": "2014-01-01T14:29:59Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6936298, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -1763,6 +2979,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "0", 
       "size": 112, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 6936298, 
       "description": "Fetches your favorites from Twitter and pushes them to TweetKeeper"
@@ -1771,12 +2988,25 @@
       "stargazers": "1", 
       "owner_type": "Organization", 
       "watchers": "1", 
+=======
+      "stargazers": "1", 
+      "owner_type": "Organization", 
+      "description": "Fetches your favorites from Twitter and pushes them to TweetKeeper"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "rails sunspot", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/openshift-quickstart/rails-sunspot-openshift-quickstart", 
       "created_at": "2013-02-06T05:23:03Z", 
       "updated_at": "2014-01-09T03:17:12Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8045171, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9"
       ], 
@@ -1784,6 +3014,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "0", 
       "size": 245, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8045171, 
       "description": "This is an example rails application set to run the sunspot(solr) search for Ruby objects"
@@ -1792,12 +3023,25 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "1", 
+      "owner_type": "Organization", 
+      "description": "This is an example rails application set to run the sunspot(solr) search for Ruby objects"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "adopt-a-hydrant", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/openshift-quickstart/adopt-a-hydrant-openshift-quickstart", 
       "created_at": "2012-11-23T20:20:40Z", 
       "updated_at": "2013-11-24T03:20:29Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6832697, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "postgresql-8.4"
@@ -1806,6 +3050,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "3", 
       "size": 5665, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 6832697, 
       "description": "Adopt-a-hydrant migrated to OpenShift"
@@ -1814,12 +3059,25 @@
       "stargazers": "5", 
       "owner_type": "Organization", 
       "watchers": "5", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "Adopt-a-hydrant migrated to OpenShift"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Bottle Python3", 
       "language": "Python", 
       "git_repo_url": "https://github.com/openshift-quickstart/Bottle-Python3-quickstart", 
       "created_at": "2013-02-28T09:37:47Z", 
       "updated_at": "2013-12-24T13:51:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8476117, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-3.3", 
          "mongodb-2.2"
@@ -1828,6 +3086,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "4", 
       "size": 158, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8476117, 
       "description": "A quick start app for Bottle framework of Python 3.3 on OpenShift PaaS"
@@ -1836,12 +3095,25 @@
       "stargazers": "7", 
       "owner_type": "Organization", 
       "watchers": "7", 
+=======
+      "stargazers": "5", 
+      "owner_type": "Organization", 
+      "description": "A quick start app for Bottle framework of Python 3.3 on OpenShift PaaS"
+   }, 
+   {
+      "watchers": "7", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "SugarCRM", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/openshift-quickstart/sugarcrm-example", 
       "created_at": "2011-08-25T18:47:11Z", 
       "updated_at": "2013-11-10T13:24:07Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2269782, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -1850,6 +3122,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "8", 
       "size": 21097, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2269782, 
       "description": "Quickstart SugarCRM on OpenShift | Sugar is an affordable and easy to use customer relationship management (CRM) platform, designed to help your business communicate with prospects, share sales information, close deals and keep customers happy."
@@ -1858,12 +3131,25 @@
       "stargazers": "5", 
       "owner_type": "Organization", 
       "watchers": "5", 
+=======
+      "stargazers": "7", 
+      "owner_type": "Organization", 
+      "description": "Quickstart SugarCRM on OpenShift | Sugar is an affordable and easy to use customer relationship management (CRM) platform, designed to help your business communicate with prospects, share sales information, close deals and keep customers happy."
+   }, 
+   {
+      "watchers": "5", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Juvia", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/openshift-quickstart/juvia-example", 
       "created_at": "2012-04-01T14:18:46Z", 
       "updated_at": "2013-08-12T19:15:34Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3892934, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.8", 
          "mysql-5.1"
@@ -1872,6 +3158,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "2", 
       "size": 299, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3892934, 
       "description": "Quickstart Juvia on OpenShift | Juvia is an open source commenting system, it is similar to Disqus and IntenseDebate."
@@ -1880,12 +3167,25 @@
       "stargazers": "3", 
       "owner_type": "Organization", 
       "watchers": "3", 
+=======
+      "stargazers": "5", 
+      "owner_type": "Organization", 
+      "description": "Quickstart Juvia on OpenShift | Juvia is an open source commenting system, it is similar to Disqus and IntenseDebate."
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "phpbb", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/openshift-quickstart/phpbb-example", 
       "created_at": "2011-11-03T19:41:50Z", 
       "updated_at": "2013-12-14T08:15:44Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 2704620, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3", 
          "mysql-5.1"
@@ -1894,6 +3194,7 @@
       "owner": "https://github.com/openshift-quickstart", 
       "forks": "3", 
       "size": 2415, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 2704620, 
       "description": "Quickstart phpBB on OpenShift | phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website."
@@ -1902,12 +3203,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "3", 
+      "owner_type": "Organization", 
+      "description": "Quickstart phpBB on OpenShift | phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website."
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Federated Wiki", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/paul90/wiki-openshift-quickstart", 
       "created_at": "2013-10-06T11:05:58Z", 
       "updated_at": "2014-01-08T15:28:40Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 13360856, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1915,6 +3229,7 @@
       "owner": "https://github.com/paul90", 
       "forks": "0", 
       "size": 196, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 13360856, 
       "description": "Federated Wiki on OpenShift"
@@ -1923,16 +3238,30 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "Federated Wiki on OpenShift"
+   }, 
+   {
+      "watchers": "4", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "advanced ruby", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/pbrazdil/openshift-advanced-ruby-cartridge", 
       "created_at": "2013-09-18T11:42:47Z", 
       "updated_at": "2014-01-08T12:24:46Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 12921508, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "advancedruby", 
       "owner": "https://github.com/pbrazdil", 
       "forks": "1", 
       "size": 560, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 12921508, 
       "description": "Advanced Ruby cartridge for OpenShift with support for popular web servers and JRuby."
@@ -1941,12 +3270,25 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Advanced Ruby cartridge for OpenShift with support for popular web servers and JRuby."
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "pubnub", 
       "language": "Python", 
       "git_repo_url": "https://github.com/pubnub/pubnub-openshift-quickstart", 
       "created_at": "2013-03-14T19:39:29Z", 
       "updated_at": "2013-12-10T17:27:38Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8783733, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.7"
       ], 
@@ -1954,6 +3296,7 @@
       "owner": "https://github.com/pubnub", 
       "forks": "3", 
       "size": 75, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8783733, 
       "description": "OpenShift Python and More for your integration into RedHat and PubNub."
@@ -1962,12 +3305,25 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "OpenShift Python and More for your integration into RedHat and PubNub."
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "pusher node example", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/pusher/pusher-node-openshift-quickstart", 
       "created_at": "2013-06-04T09:47:50Z", 
       "updated_at": "2013-12-05T11:42:22Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10475490, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -1975,6 +3331,7 @@
       "owner": "https://github.com/pusher", 
       "forks": "2", 
       "size": 156, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 10475490, 
       "description": "A quickstart template for using Pusher on OpenShift with Node.js"
@@ -1983,12 +3340,25 @@
       "stargazers": "12", 
       "owner_type": "User", 
       "watchers": "12", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "A quickstart template for using Pusher on OpenShift with Node.js"
+   }, 
+   {
+      "watchers": "12", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "redmine 2.0", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/ramr/redmine-2.0-openshift-quickstart", 
       "created_at": "2012-07-09T23:10:39Z", 
       "updated_at": "2013-12-18T17:41:16Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4966187, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9", 
          "mysql-5.1"
@@ -1997,6 +3367,7 @@
       "owner": "https://github.com/ramr", 
       "forks": "29", 
       "size": 3982, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4966187, 
       "description": "Redmine version 2.0.3 project management software for OpenShift"
@@ -2005,16 +3376,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "12", 
+      "owner_type": "User", 
+      "description": "Redmine version 2.0.3 project management software for OpenShift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "python 2.7", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/ramr/openshift-community-cartridge-python-2.7", 
       "created_at": "2013-01-24T01:32:43Z", 
       "updated_at": "2014-01-07T12:46:59Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 7787964, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "python27", 
       "owner": "https://github.com/ramr", 
       "forks": "6", 
       "size": 22005, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 7787964, 
       "description": "Community cartridge to add Python-2.7 support on OpenShift"
@@ -2023,12 +3408,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "Community cartridge to add Python-2.7 support on OpenShift"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "django py3", 
       "language": "Python", 
       "git_repo_url": "https://github.com/rancavil/django-py3-openshift-quickstart", 
       "created_at": "2013-12-20T18:24:17Z", 
       "updated_at": "2014-01-06T14:47:29Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15345286, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-3.3"
       ], 
@@ -2036,6 +3434,7 @@
       "owner": "https://github.com/rancavil", 
       "forks": "3", 
       "size": 389, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 15345286, 
       "description": "Django 1.6 git repository for OpenShift with Python 3.3"
@@ -2044,16 +3443,30 @@
       "stargazers": "10", 
       "owner_type": "User", 
       "watchers": "10", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Django 1.6 git repository for OpenShift with Python 3.3"
+   }, 
+   {
+      "watchers": "10", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "rackos", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/RayRacine/rackos", 
       "created_at": "2012-05-15T17:59:21Z", 
       "updated_at": "2013-12-30T16:34:25Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4338823, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "rackos", 
       "owner": "https://github.com/RayRacine", 
       "forks": "3", 
       "size": 444, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 4338823, 
       "description": "Racket Cartridge for Redhat's OpenShift"
@@ -2062,12 +3475,25 @@
       "stargazers": "5", 
       "owner_type": "User", 
       "watchers": "5", 
+=======
+      "stargazers": "10", 
+      "owner_type": "User", 
+      "description": "Racket Cartridge for Redhat's OpenShift"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "showoff", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/richardfontana/showoff-openshift-quickstart", 
       "created_at": "2012-04-19T02:46:10Z", 
       "updated_at": "2013-10-07T15:37:34Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 4070968, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.8"
       ], 
@@ -2075,6 +3501,7 @@
       "owner": "https://github.com/richardfontana", 
       "forks": "2", 
       "size": 109, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 4070968, 
       "description": ""
@@ -2083,16 +3510,30 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "5", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "4", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "mule diy", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/ryandcarter/mule-diy-cartridge", 
       "created_at": "2013-02-25T23:15:24Z", 
       "updated_at": "2013-12-31T13:51:21Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8420560, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "mulediy", 
       "owner": "https://github.com/ryandcarter", 
       "forks": "1", 
       "size": 296, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 8420560, 
       "description": "A DIY Cartridge for deploying a standalone Mule to OpenShift"
@@ -2101,12 +3542,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "A DIY Cartridge for deploying a standalone Mule to OpenShift"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "meteorjs", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/ryanj/openshift-meteorjs-quickstart", 
       "created_at": "2013-03-03T19:34:15Z", 
       "updated_at": "2014-01-07T16:19:35Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 8541252, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10", 
          "mongodb-2.2"
@@ -2115,6 +3569,7 @@
       "owner": "https://github.com/ryanj", 
       "forks": "8", 
       "size": 223, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 8541252, 
       "description": "Deploy meteor.js application bundles on OpenShift. No longer works with recent versions of Meteor :("
@@ -2123,12 +3578,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Deploy meteor.js application bundles on OpenShift. No longer works with recent versions of Meteor :("
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Ghost+mysql", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/samgreen/openshift-ghost-mysql", 
       "created_at": "2014-01-03T21:42:31Z", 
       "updated_at": "2014-01-03T23:07:57Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 15620304, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10", 
          "mysql-5.1"
@@ -2137,6 +3605,7 @@
       "owner": "https://github.com/samgreen", 
       "forks": "0", 
       "size": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 15620304, 
       "description": "Quickstart for Ghost.org blogging platform, deployed on Red Hat's OpenShift."
@@ -2145,12 +3614,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "Quickstart for Ghost.org blogging platform, deployed on Red Hat's OpenShift."
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "Spree", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/sarupbanskota/OpenShift-Quickstart-for-Spree", 
       "created_at": "2013-07-26T17:50:16Z", 
       "updated_at": "2014-01-09T17:26:03Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11691335, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "ruby-1.9"
       ], 
@@ -2158,6 +3640,7 @@
       "owner": "https://github.com/sarupbanskota", 
       "forks": "2", 
       "size": 3623, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 11691335, 
       "description": "Quickstarter for Spree, to be used by OpenShift users who want to set up a quick ecommerce store."
@@ -2166,12 +3649,25 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Quickstarter for Spree, to be used by OpenShift users who want to set up a quick ecommerce store."
+   }, 
+   {
+      "watchers": "3", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "wildfly", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/shekhargulati/wildfly-openshift-quickstart", 
       "created_at": "2013-08-02T08:44:52Z", 
       "updated_at": "2013-12-16T20:34:51Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11838962, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.1"
       ], 
@@ -2179,6 +3675,7 @@
       "owner": "https://github.com/shekhargulati", 
       "forks": "3", 
       "size": 850, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 11838962, 
       "description": "Wildfly Application Server running on OpenShift"
@@ -2187,12 +3684,25 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Wildfly Application Server running on OpenShift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "mindmaps", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/shekhargulati/mindmaps-openshift-quickstart", 
       "created_at": "2012-12-20T19:30:22Z", 
       "updated_at": "2014-01-03T00:05:46Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 7263074, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "nodejs-0.10"
       ], 
@@ -2200,6 +3710,7 @@
       "owner": "https://github.com/shekhargulati", 
       "forks": "0", 
       "size": 2064, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 7263074, 
       "description": "HTML5 Node.js MindMap application"
@@ -2208,12 +3719,25 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "HTML5 Node.js MindMap application"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "activemq", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/shekhargulati/activemq-openshift-quickstart", 
       "created_at": "2012-10-01T06:20:44Z", 
       "updated_at": "2013-12-22T12:50:52Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6026031, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "diy-0.10"
       ], 
@@ -2221,6 +3745,7 @@
       "owner": "https://github.com/shekhargulati", 
       "forks": "2", 
       "size": 43814, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 6026031, 
       "description": "Quick start for running activemq in cloud"
@@ -2229,16 +3754,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Quick start for running activemq in cloud"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "tomcatjndi", 
       "language": "Java", 
       "git_repo_url": "https://github.com/shekhargulati/tomcatjndidemo", 
       "created_at": "2012-11-21T07:10:56Z", 
       "updated_at": "2014-01-04T14:40:29Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 6791508, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "tomcatjndi", 
       "owner": "https://github.com/shekhargulati", 
       "forks": "1", 
       "size": 237, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 6791508, 
       "description": "A simple application demonstrating how to use JNDI datasource with OpenShift Tomcat Cartridge"
@@ -2247,16 +3786,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "A simple application demonstrating how to use JNDI datasource with OpenShift Tomcat Cartridge"
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "nginx uwsgi", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/skozlovf/openshift-diy-nginx-uwsgi", 
       "created_at": "2013-06-20T17:02:58Z", 
       "updated_at": "2014-01-07T22:12:02Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10824924, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nginx", 
       "owner": "https://github.com/skozlovf", 
       "forks": "0", 
       "size": 109, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10824924, 
       "description": "Simple DIY cartridge to add Python 2.7.5, Nginx and uWSGI support on OpenShift."
@@ -2265,16 +3818,30 @@
       "stargazers": "9", 
       "owner_type": "User", 
       "watchers": "9", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "Simple DIY cartridge to add Python 2.7.5, Nginx and uWSGI support on OpenShift."
+   }, 
+   {
+      "watchers": "9", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "go cart", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/smarterclayton/openshift-go-cart", 
       "created_at": "2013-05-17T16:36:26Z", 
       "updated_at": "2014-01-08T21:26:05Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10127628, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "go", 
       "owner": "https://github.com/smarterclayton", 
       "forks": "20", 
       "size": 206, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10127628, 
       "description": "Go cartridge for OpenShift Origin"
@@ -2283,16 +3850,30 @@
       "stargazers": "14", 
       "owner_type": "User", 
       "watchers": "14", 
+=======
+      "stargazers": "9", 
+      "owner_type": "User", 
+      "description": "Go cartridge for OpenShift Origin"
+   }, 
+   {
+      "watchers": "14", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "cdk cart", 
       "language": "Ruby", 
       "git_repo_url": "https://github.com/smarterclayton/openshift-cdk-cart", 
       "created_at": "2013-05-21T00:53:12Z", 
       "updated_at": "2013-12-26T05:00:25Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10184999, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "cdk", 
       "owner": "https://github.com/smarterclayton", 
       "forks": "6", 
       "size": 272, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10184999, 
       "description": "OpenShift Cartridge Development Kit - start building cartridges on OpenShift today"
@@ -2301,16 +3882,30 @@
       "stargazers": "5", 
       "owner_type": "User", 
       "watchers": "5", 
+=======
+      "stargazers": "14", 
+      "owner_type": "User", 
+      "description": "OpenShift Cartridge Development Kit - start building cartridges on OpenShift today"
+   }, 
+   {
+      "watchers": "5", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "php fpm", 
       "language": "C", 
       "git_repo_url": "https://github.com/smerrill/openshift-php-fpm", 
       "created_at": "2013-06-14T01:24:43Z", 
       "updated_at": "2014-01-05T05:12:13Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10679592, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "phpfpm", 
       "owner": "https://github.com/smerrill", 
       "forks": "8", 
       "size": 7192, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10679592, 
       "description": "A php-fpm 5.4.x cartridge for OpenShift. Designed to run Drupal (including 8) well."
@@ -2319,16 +3914,30 @@
       "stargazers": "3", 
       "owner_type": "User", 
       "watchers": "3", 
+=======
+      "stargazers": "5", 
+      "owner_type": "User", 
+      "description": "A php-fpm 5.4.x cartridge for OpenShift. Designed to run Drupal (including 8) well."
+   }, 
+   {
+      "watchers": "3", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "diy extra port", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/sosiouxme/diy-extra-port-cartridge", 
       "created_at": "2013-06-26T19:39:13Z", 
       "updated_at": "2013-11-23T07:52:08Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10977160, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "extraport", 
       "owner": "https://github.com/sosiouxme", 
       "forks": "8", 
       "size": 185, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10977160, 
       "description": "OpenShift DIY cartridge with extra port exposed."
@@ -2337,16 +3946,30 @@
       "stargazers": "4", 
       "owner_type": "User", 
       "watchers": "4", 
+=======
+      "stargazers": "3", 
+      "owner_type": "User", 
+      "description": "OpenShift DIY cartridge with extra port exposed."
+   }, 
+   {
+      "watchers": "4", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "erlang", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/thijsterlouw/openshift-erlang", 
       "created_at": "2013-07-04T14:32:17Z", 
       "updated_at": "2013-12-31T16:57:39Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11179301, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "erlang", 
       "owner": "https://github.com/thijsterlouw", 
       "forks": "3", 
       "size": 257, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11179301, 
       "description": "Erlang cartridge for OpenShift"
@@ -2355,16 +3978,30 @@
       "stargazers": "16", 
       "owner_type": "User", 
       "watchers": "16", 
+=======
+      "stargazers": "4", 
+      "owner_type": "User", 
+      "description": "Erlang cartridge for OpenShift"
+   }, 
+   {
+      "watchers": "16", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "clojure", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/tonsky/openshift-clojure", 
       "created_at": "2013-04-12T12:33:22Z", 
       "updated_at": "2013-12-28T13:54:50Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 9393836, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "clojure", 
       "owner": "https://github.com/tonsky", 
       "forks": "2", 
       "size": 148, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 9393836, 
       "description": "Clojure/lein openshift cartridge template"
@@ -2373,16 +4010,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "16", 
+      "owner_type": "User", 
+      "description": "Clojure/lein openshift cartridge template"
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "celery", 
       "language": "Python", 
       "git_repo_url": "https://github.com/tresbailey/openshift-celery-cartridge", 
       "created_at": "2013-08-06T16:36:03Z", 
       "updated_at": "2013-12-26T06:24:07Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11929032, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "celery", 
       "owner": "https://github.com/tresbailey", 
       "forks": "2", 
       "size": 166, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11929032, 
       "description": "Cartridge to Expose Celery as a Daemon on OpenShift"
@@ -2391,12 +4042,25 @@
       "stargazers": "1", 
       "owner_type": "User", 
       "watchers": "1", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "Cartridge to Expose Celery as a Daemon on OpenShift"
+   }, 
+   {
+      "watchers": "1", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "DokuWiki", 
       "language": "PHP", 
       "git_repo_url": "https://github.com/vimishor/dokuwiki-openshift-quickstart", 
       "created_at": "2012-03-23T23:16:41Z", 
       "updated_at": "2014-01-02T15:36:23Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 3813550, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "php-5.3"
       ], 
@@ -2404,6 +4068,7 @@
       "owner": "https://github.com/vimishor", 
       "forks": "12", 
       "size": 2230, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 3813550, 
       "description": "Dokuwiki quickstart for RedHat's OpenShift"
@@ -2412,16 +4077,30 @@
       "stargazers": "4", 
       "owner_type": "Organization", 
       "watchers": "4", 
+=======
+      "stargazers": "1", 
+      "owner_type": "User", 
+      "description": "Dokuwiki quickstart for RedHat's OpenShift"
+   }, 
+   {
+      "watchers": "4", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "tomcat community", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/worldline/openshift-cartridge-tomcat-community", 
       "created_at": "2013-06-20T16:31:48Z", 
       "updated_at": "2014-01-09T01:22:11Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 10824297, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "tomcatcommunity", 
       "owner": "https://github.com/worldline", 
       "forks": "4", 
       "size": 271, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10824297, 
       "description": "Tomcat cartridge for openshift"
@@ -2430,16 +4109,30 @@
       "stargazers": "0", 
       "owner_type": "Organization", 
       "watchers": "0", 
+=======
+      "stargazers": "4", 
+      "owner_type": "Organization", 
+      "description": "Tomcat cartridge for openshift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "jetty websocket", 
       "language": "Java", 
       "git_repo_url": "https://github.com/worldline/openshift-cartridge-jetty-websocket", 
       "created_at": "2013-07-11T17:19:02Z", 
       "updated_at": "2014-01-06T14:13:32Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11348049, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "jettywebsocket", 
       "owner": "https://github.com/worldline", 
       "forks": "4", 
       "size": 126, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11348049, 
       "description": "An OpenShift cartridge for using a Jetty WebSocket server."
@@ -2448,16 +4141,30 @@
       "stargazers": "2", 
       "owner_type": "Organization", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "Organization", 
+      "description": "An OpenShift cartridge for using a Jetty WebSocket server."
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "email", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/worldline/openshift-email-cartridge", 
       "created_at": "2013-08-07T14:00:43Z", 
       "updated_at": "2013-12-12T11:18:58Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 11951253, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "email", 
       "owner": "https://github.com/worldline", 
       "forks": "1", 
       "size": 10517, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 11951253, 
       "description": "OpenShift cartridge providing a REST API to send emails"
@@ -2466,16 +4173,30 @@
       "stargazers": "0", 
       "owner_type": "Organization", 
       "watchers": "0", 
+=======
+      "stargazers": "2", 
+      "owner_type": "Organization", 
+      "description": "OpenShift cartridge providing a REST API to send emails"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "ros", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/worldline/openshift-ros", 
       "created_at": "2013-10-31T15:19:16Z", 
       "updated_at": "2014-01-08T10:29:27Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-04T19:11:17.000000", 
+=======
+      "id": 14020532, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "ros", 
       "owner": "https://github.com/worldline", 
       "forks": "1", 
       "size": 428, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14020532, 
       "description": "openshift-ubuntu-cartridge"
@@ -2484,16 +4205,30 @@
       "stargazers": "11", 
       "owner_type": "User", 
       "watchers": "11", 
+=======
+      "stargazers": "0", 
+      "owner_type": "Organization", 
+      "description": "openshift-ubuntu-cartridge"
+   }, 
+   {
+      "watchers": "11", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "origin nodejs", 
       "language": "D", 
       "git_repo_url": "https://github.com/wshearn/openshift-origin-cartridge-nodejs", 
       "created_at": "2013-06-03T03:59:10Z", 
       "updated_at": "2014-01-02T15:00:43Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-06T17:36:37.620740", 
+=======
+      "id": 10446746, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "nodejs", 
       "owner": "https://github.com/wshearn", 
       "forks": "11", 
       "size": 8576, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10446746, 
       "description": "For testing"
@@ -2502,16 +4237,30 @@
       "stargazers": "9", 
       "owner_type": "User", 
       "watchers": "9", 
+=======
+      "stargazers": "11", 
+      "owner_type": "User", 
+      "description": "For testing"
+   }, 
+   {
+      "watchers": "9", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "community mono", 
       "language": "JavaScript", 
       "git_repo_url": "https://github.com/wshearn/openshift-community-cartridge-mono", 
       "created_at": "2013-06-08T04:38:24Z", 
       "updated_at": "2013-12-18T12:38:00Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-06T18:36:37.620740", 
+=======
+      "id": 10563805, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "communitymono", 
       "owner": "https://github.com/wshearn", 
       "forks": "7", 
       "size": 152467, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 10563805, 
       "description": "Mono/ASP.NET Community Cartridge for OpenShift"
@@ -2520,16 +4269,30 @@
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
+=======
+      "stargazers": "9", 
+      "owner_type": "User", 
+      "description": "Mono/ASP.NET Community Cartridge for OpenShift"
+   }, 
+   {
+      "watchers": "0", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "osbs", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/wshearn/openshift-cartridge-osbs-client", 
       "created_at": "2013-12-04T19:22:35Z", 
       "updated_at": "2014-01-06T11:22:33Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-07T17:36:37.620740", 
+=======
+      "id": 14933362, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "osbs", 
       "owner": "https://github.com/wshearn", 
       "forks": "0", 
       "size": 132, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 14933362, 
       "description": ""
@@ -2538,16 +4301,30 @@
       "stargazers": "2", 
       "owner_type": "User", 
       "watchers": "2", 
+=======
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": ""
+   }, 
+   {
+      "watchers": "2", 
+      "type": "Cartridge", 
+>>>>>>> .merge_file_s84CB0
       "name": "DIY Ruby-1.93", 
       "language": "Shell", 
       "git_repo_url": "https://github.com/zekus/openshift-diy-ruby193", 
       "created_at": "2012-08-10T17:06:48Z", 
       "updated_at": "2014-01-08T19:56:08Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-07T18:36:37.620740", 
+=======
+      "id": 5372032, 
+>>>>>>> .merge_file_s84CB0
       "default_app_name": "rubydiy", 
       "owner": "https://github.com/zekus", 
       "forks": "0", 
       "size": 112, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "Cartridge", 
       "id": 5372032, 
       "description": "install ruby 1.9.3 on a diy openshift cartridge"
@@ -2556,12 +4333,25 @@
       "stargazers": "9", 
       "owner_type": "User", 
       "watchers": "9", 
+=======
+      "stargazers": "2", 
+      "owner_type": "User", 
+      "description": "install ruby 1.9.3 on a diy openshift cartridge"
+   }, 
+   {
+      "watchers": "9", 
+      "type": "QuickStart", 
+>>>>>>> .merge_file_s84CB0
       "name": "sentry", 
       "language": "Python", 
       "git_repo_url": "https://github.com/zemanel/openshift-sentry-quickstart", 
       "created_at": "2013-04-02T17:04:01Z", 
       "updated_at": "2013-11-23T02:25:08Z", 
+<<<<<<< .merge_file_oQ2ezX
       "submitted_at": "2014-03-08T17:36:37.620740", 
+=======
+      "id": 9175254, 
+>>>>>>> .merge_file_s84CB0
       "cartridges": [
          "python-2.7", 
          "mongodb-2.2", 
@@ -2571,6 +4361,7 @@
       "owner": "https://github.com/zemanel", 
       "forks": "2", 
       "size": 184, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "QuickStart", 
       "id": 9175254, 
       "description": "A Red Hat Openshift PaaS out-of-the-box quickstart for https://getsentry.com"
@@ -2678,10 +4469,65 @@
       "type": "quickstart", 
       "forks": 0, 
       "name": "wordpress-exemplo"
+=======
+      "stargazers": "9", 
+      "owner_type": "User", 
+      "description": "A Red Hat Openshift PaaS out-of-the-box quickstart for https://getsentry.com"
+   }, 
+   {
+      "watchers": "0", 
+      "name": "magento", 
+      "language": "Shell", 
+      "type": "QuickStart", 
+      "created_at": "2013-12-06T01:31:17Z", 
+      "updated_at": "2014-01-08T18:09:33Z", 
+      "id": 14970730, 
+      "full_name": "https://github.com/caruccio/openshift-magento-quickstart", 
+      "owner": "https://github.com/caruccio", 
+      "forks": "0", 
+      "size": 30396, 
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "OpenShift quickstart to run scalable Magento + Nginx + Redis on Getup Cloud"
+   }, 
+   {
+      "watchers": "0", 
+      "name": "OpenERP", 
+      "language": "Shell", 
+      "type": "QuickStart", 
+      "created_at": "2013-12-21T15:31:20Z", 
+      "updated_at": "2014-01-16T12:19:39Z", 
+      "id": 15361032, 
+      "full_name": "https://github.com/caruccio/openshift-openerp-quickstart", 
+      "owner": "https://github.com/caruccio", 
+      "forks": "0", 
+      "size": 56480, 
+      "stargazers": "0", 
+      "owner_type": "User", 
+      "description": "OpenShift OpenERP quickstart"
+   }, 
+   {
+      "owner_type": "User", 
+      "watchers": 9, 
+      "description": "an example restify app containing PostgreSQL queries and National Parks data", 
+      "language": "JavaScript", 
+      "type": "quickstart", 
+      "created_at": "2013-10-05T00:22:13Z", 
+      "updated_at": "2014-01-12T22:51:50Z", 
+      "name": "restify-postGIS", 
+      "cartridges": "nodejs-0.10, postgres-9.2", 
+      "owner": "https://github.com/ryanj", 
+      "forks": 7, 
+      "stargazers": 9, 
+      "id": 13337622, 
+      "alternate_name": "parks", 
+      "size": 169
+>>>>>>> .merge_file_s84CB0
    }, 
    {
       "owner_type": "User", 
       "watchers": 0, 
+<<<<<<< .merge_file_oQ2ezX
       "type": "quickstart", 
       "description": "Creating a demo that uses PHP's Silex to serve static content", 
       "language": "PHP", 
@@ -2725,5 +4571,37 @@
       "submitted_at": "2014-04-03T23:24:57.264918", 
       "owner_name": "ryan jarvinen", 
       "owner_avatar_url": "https://avatars.githubusercontent.com/u/17562?"
+=======
+      "description": "A MongoBD, Restify, and Leafletjs sample application, designed to map National Parks and Historic sites", 
+      "language": "JavaScript", 
+      "type": "quickstart", 
+      "created_at": "2014-02-11T06:17:00Z", 
+      "updated_at": "2014-02-13T05:14:24Z", 
+      "name": "restify-mongodb-parks", 
+      "cartridges": "cron-14, mysql-5.1, phpmyadmin-3.4", 
+      "owner": "https://github.com/ryanj", 
+      "forks": 1, 
+      "stargazers": 0, 
+      "id": 16721495, 
+      "alternate_name": "mongoparks", 
+      "size": 184
+   }, 
+   {
+      "updated_at": "2014-03-05T23:03:09Z", 
+      "owner": "https://github.com/ryanj", 
+      "id": 17457849, 
+      "description": "", 
+      "size": 1117, 
+      "forks": 0, 
+      "watchers": 0, 
+      "name": "oo-index", 
+      "language": "CSS", 
+      "created_at": "2014-03-05T22:39:26Z", 
+      "stargazers": 0, 
+      "owner_type": "User", 
+      "alternate_name": "index", 
+      "cartridges": "python-2.7", 
+      "type": "quickstart"
+>>>>>>> .merge_file_s84CB0
    }
 ]
