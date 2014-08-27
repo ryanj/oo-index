@@ -1,5 +1,28 @@
 [
    {
+      "updated_at": "2014-08-11T01:31:22Z", 
+      "owner": "https://github.com/ryanj", 
+      "id": 20608383, 
+      "description": "A docker image that helps facilitate open source slideshow authoring by templating gist.github.com content using reveal.js", 
+      "size": 3020, 
+      "forks": 1, 
+      "watchers": 7, 
+      "name": "gist-reveal.it", 
+      "language": "JavaScript", 
+      "created_at": "2014-06-08T03:25:31Z", 
+      "stargazers": 7, 
+      "owner_type": "User", 
+      "default_app_name": "slides", 
+      "cartridges": [
+         "nodejs-0.10"
+      ], 
+      "git_repo_url": "https://github.com/ryanj/gist-reveal.it.git", 
+      "type": "quickstart", 
+      "submitted_at": "2014-08-27T01:39:44.416474", 
+      "owner_name": "ryan jarvinen", 
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/17562?v=2"
+   }, 
+   {
       "stargazers": "0", 
       "owner_type": "User", 
       "watchers": "0", 
